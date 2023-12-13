@@ -1,0 +1,45 @@
+
+body {
+    background-color: #EEF5FF;
+  }
+  
+  .form-container {
+    max-width: 500px;
+    margin: 50px auto;
+    background: none;
+    padding: 20px;  
+    display: flex;
+    flex-direction: column;
+    /* margin-left:- 200px; */
+  }
+  
+  h1 {
+    text-align: center;  
+    margin-right: 200px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input,
+  select {
+    padding: 5px;
+    margin-bottom: 20px;  
+    border-radius: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    padding: 10px 15px;
+    background: #008bd2;
+    color: #fff; 
+    border: none;
+    border-radius: 15px; 
+    margin-left: 80px;
+  }
+  
+  
+  
+  
+  
